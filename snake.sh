@@ -19,7 +19,7 @@ game_start=(
     '                                                 '
     '                ~~~ S N A K E ~~~                '
     '                                                 '
-    '                  Author:  LKJ                   '
+    '                  Author:  HC                    '
     '         space or enter   pause/play             '
     '         q                quit at any time       '
     '         s                change the speed       '
